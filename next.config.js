@@ -5,7 +5,7 @@ module.exports = (phase) => {
   const env = {
     ENDPOINT: isDev
       ? "http://localhost:3000/api/graphql"
-      : "https://nextjs-apollo-material.vercel.app",
+      : "https://nextjs-apollo-material.vercel.app/api/graphql",
   };
   return {
     env,
