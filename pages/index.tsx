@@ -50,7 +50,7 @@ export default function index() {
         </h2>
       }
       columns={columns}
-      data={data.users}
+      data={data?.users}
       detailPanel={[
         {
           tooltip: "Show ID",
