@@ -18,7 +18,7 @@
     "graphql-tag": "^2.10.3",
     "micro-cors": "latest",
     "mongoose": "^5.9.20",
-    "next": "9.4.4",
+    "next": "11.1.3",
     "next-with-apollo": "latest",
     "react": "16.13.1",
     "react-apollo": "latest",
